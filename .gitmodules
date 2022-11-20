@@ -1,0 +1,3 @@
+[submodule "3rd/mcts"]
+	path = 3rd/mcts
+	url = https://github.com/MericLuc/mcts.git
